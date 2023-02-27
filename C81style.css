@@ -1,0 +1,21 @@
+body{
+	background-image: url("cololido\ algod1ão\ code\ .jpeg");
+}
+h1{
+	color: blueviolet;
+}
+#meucanva{
+	background-color: rgb(237, 237, 202);
+	margin: 25px;
+	border: 3px solid rgba(212, 212, 1, 0.902);
+}
+button{
+	background-color: rgb(76, 0, 148);
+	color: rgb(16, 147, 228);
+	padding: 5px;
+}
+#tamanilho{
+	width: 70px;
+	background-color: rgb(76, 0, 148);
+	color: rgb(16, 147, 228);
+}
